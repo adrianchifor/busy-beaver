@@ -1,4 +1,4 @@
-Implementation of the Busy Beaver problem in C++.
+# Implementation of the Busy Beaver problem in C++
 
 http://en.wikipedia.org/wiki/Busy_beaver
 
